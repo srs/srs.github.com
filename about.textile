@@ -6,3 +6,10 @@ layout: master
 h2. About...
 
 Some content here...
+
+{% highlight java %}
+public String toString() 
+{
+	return "Hello";
+}
+{% endhighlight %}
